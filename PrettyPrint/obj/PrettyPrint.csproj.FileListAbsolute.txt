@@ -1,0 +1,8 @@
+C:\SU\JWFPROJS\PrettyPrint\PrettyPrint\obj\Debug\PrettyPrint.exe
+C:\SU\JWFPROJS\PrettyPrint\PrettyPrint\obj\Debug\PrettyPrint.pdb
+C:\SU\JWFPROJS\PrettyPrint\PrettyPrint\bin\Debug\PrettyPrint.exe
+C:\SU\JWFPROJS\PrettyPrint\PrettyPrint\bin\Debug\PrettyPrint.pdb
+C:\SU\JWFPROJS\PrettyPrint\PrettyPrint\obj\Debug\ResolveAssemblyReference.cache
+C:\SU\JWFPROJS\PrettyPrint\PrettyPrint\obj\Debug\PrettyPrint.PrettyPrint.resources
+C:\SU\JWFPROJS\PrettyPrint\PrettyPrint\obj\Debug\PrettyPrint.Properties.Resources.resources
+C:\SU\JWFPROJS\PrettyPrint\PrettyPrint\obj\Debug\PrettyPrint.csproj.GenerateResource.Cache

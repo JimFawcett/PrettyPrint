@@ -1,0 +1,8 @@
+bin\Debug\PrettyPrint.exe
+bin\Debug\PrettyPrint.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PrettyPrint.Properties.Resources.resources
+obj\Debug\PrettyPrint.csproj.GenerateResource.Cache
+obj\Debug\PrettyPrint.exe
+obj\Debug\PrettyPrint.pdb
+obj\Debug\PrettyPrint.PrettyPrint.resources
